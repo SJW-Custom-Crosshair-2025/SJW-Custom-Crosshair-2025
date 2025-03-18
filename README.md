@@ -1,16 +1,13 @@
-## Hi there 👋
+SJW Custom Crosshair 2025
+SJW Custom Crosshair 2025 ist eine individuelle Anwendung für Gamer, die ein personalisierbares Fadenkreuz mit dynamischen Animationen bietet. Erlebe präzise Steuerung, elegante UI und einen Update-Mechanismus, der dich immer auf dem neuesten Stand hält.
 
-<!--
-**SJW-Custom-Crosshair-2025/SJW-Custom-Crosshair-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Features
+Anpassbare Animationen: Wellen, Rotation und Farbwechsel.
+Präzise Steuerung: Feinjustierung von Geschwindigkeit, Linienstärke und mehr.
+Sichere Updates: Automatischer Update-Checker über GitHub Pages.
+Elegante Benutzeroberfläche: Modernes Design in Schwarz-Gold.
+Installation & Nutzung
+Lade die aktuelle Version der App über den Download-Bereich herunter. Starte die App, passe dein Crosshair an und profitiere von flüssigen Animationen und einem intuitiven Interface.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lizenz & Mitwirkung
+Dieses Projekt steht unter der MIT-Lizenz. Beiträge und Feedback sind willkommen – folge den üblichen GitHub-Richtlinien.
