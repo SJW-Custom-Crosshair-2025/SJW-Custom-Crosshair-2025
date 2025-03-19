@@ -12,6 +12,7 @@ Die Anwendung befindet sich aktuell noch in der Entwicklung und ist nicht vollst
 
 - Das Crosshair wird möglicherweise beim Start nicht angezeigt.
 - Beim Wechsel zwischen Tabs kann das Overlay unerwartet verschwinden.
+- Beim Wechsel zwischen Builds ob speichern oder laden kann das Crosshair unerwartet verschwinden.
 
 ### 🛠️ Temporäre Lösung
 
