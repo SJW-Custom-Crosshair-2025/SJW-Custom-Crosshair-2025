@@ -1,5 +1,6 @@
-# SJW Custom Crosshair 2025
+## 📥 Download
 
-Eine App für Gamer, die ein anpassbares, animiertes Fadenkreuz bietet.
+Du kannst die aktuelle ausführbare Version hier herunterladen:
 
-[Download App](https://github.com/SJW-Custom-Crosshair-2025/SJW-Custom-Crosshair-2025/raw/main/SJW_Custom_Crosshair.exe)
+[⬇️ SJW Custom Crosshair 2025 - Aktuelle Version herunterladen](https://github.com/SJW-Custom-Crosshair-2025/SJW-Custom-Crosshair-2025/releases/tag/exe)
+
