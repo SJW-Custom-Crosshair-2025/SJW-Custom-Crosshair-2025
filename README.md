@@ -8,6 +8,10 @@ Die aktuelle ausführbare Version kannst du hier herunterladen:
 
 ## ⚠️ Wichtiger Hinweis
 
+Hinweis zu False Positives
+
+Aufgrund der Art und Weise, wie unser Programm mit PyInstaller erstellt wird, kann es vorkommen, dass einige Antivirus-Programme die ausführbare Datei fälschlicherweise als Bedrohung einstufen. Dies liegt daran, dass PyInstaller viele Binärdateien und Bibliotheken bündelt, was manchmal verdächtige Muster erzeugt – insbesondere wenn die EXE nicht digital signiert ist. Bitte beachten Sie, dass unser Programm sicher ist und diese Warnung ein typisches False Positive darstellt.
+
 Die Anwendung befindet sich aktuell noch in der Entwicklung und ist nicht vollständig fehlerfrei. 
 
 Ich arbeite derzeit daran, die Anwendung zu verbessern.
