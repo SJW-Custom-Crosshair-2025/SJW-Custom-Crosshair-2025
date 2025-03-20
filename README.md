@@ -2,7 +2,7 @@
 
 Die aktuelle ausführbare Version kannst du hier herunterladen:
 
-[⬇️ SJW Custom Crosshair 2025 – Aktuelle Version herunterladen](https://github.com/SJW-Custom-Crosshair-2025/SJW-Custom-Crosshair-2025/releases/download/v1.1.1/SJW.Custom.Crosshair.2025.v1.1.1.exe)
+[⬇️ SJW Custom Crosshair 2025 – Aktuelle Version herunterladen](https://github.com/SJW-Custom-Crosshair-2025/SJW-Custom-Crosshair-2025/releases/download/v1.1.2/main.dist.zip)
 
 ---
 
